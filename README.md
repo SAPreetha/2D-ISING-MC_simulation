@@ -1,4 +1,4 @@
-# 2D-ISING-MC_simulation
+
 Simulating 2D ISING model using Metropolis and Wolff Cluster Algorithms
 
 # 2D-ISING-MC_simulation
